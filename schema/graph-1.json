@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://github.com/FlashyLabs/agentgraph/schema/graph-1.json",
+  "$id": "https://github.com/AgenteLabs/agentgraph/schema/graph-1.json",
   "title": "graph/1",
   "description": "The universal graph of the agentic internet — the 'What exists?' layer. Nodes are people, organisations, agents, capabilities, tools and assets; edges are relationships, every one citing an https basis its asserter publishes. This schema holds the shape; the cross-reference rules (dangling references, self-attestation, uniqueness, subject-is-a-node) live in vendor-graph.mjs validate(). Status: draft.",
   "type": "object",
